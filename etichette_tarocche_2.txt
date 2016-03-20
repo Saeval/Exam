@@ -1,0 +1,3 @@
+BLUE;14;Georgia;Cibo
+GREEN;16;Courier;Casa
+BLUE;18;SansSerif;Pizza

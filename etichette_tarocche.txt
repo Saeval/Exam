@@ -1,0 +1,6 @@
+RED;12;Georgia;Andiamo!!
+GREEN;12;Sans Serif;Verde :)
+YELLOW;12;SansSerif;Il Sole è Giallo
+BLUE;14;Georgia;Cibo
+GREEN;16;Courier;Casa
+BLUE;18;SansSerif;Pizza

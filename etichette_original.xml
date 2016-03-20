@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<etichette>
+		<etichetta Color=”RED” size=”12” font=”Georgia”>Andiamo!!</etichetta>
+		<etichetta Color=”GREEN” size=”12” font=”Sans Serif”>Verde :)</etichetta>
+		<etichetta Color=”YELOW” size=”12” font=”Sans Serif”>Il Sole è Giallo</etichetta>
+	</etichette>
